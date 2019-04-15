@@ -1,0 +1,6 @@
+module Pods_MobvenChallenge {
+  umbrella header "Pods-MobvenChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
